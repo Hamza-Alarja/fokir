@@ -1,3 +1,3 @@
 # fokir
 bootstrap template
-link : https://mclarwnce.github.io/fokir/
+link : https://hamza-alarja.github.io/fokir/
